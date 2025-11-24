@@ -104,7 +104,7 @@ func (d *FileHelper) LoadProjectReplaces() (*types.ProjectReplaces, error) {
 	return &projectReplaces, nil
 }
 
-// OutputFileName returns the output filename for a given file type.
+// outputFileName returns the output filename for a given file type.
 func (d *FileHelper) outputFileName(fileType types.FileType) string {
 	switch fileType {
 	case types.FileTypeMod:

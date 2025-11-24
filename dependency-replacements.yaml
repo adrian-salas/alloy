@@ -1,7 +1,7 @@
 # NOTE: replace directives below must always be *temporary*.
 #
 # Adding a replace directive to change a module to a fork of a module will
-# only be accepted when a PR upstream has been opened to accept the new
+# only be accepted when a PR or an issue upstream has been opened to accept the new
 # change.
 #
 # Contributors are expected to work with upstream to make their changes

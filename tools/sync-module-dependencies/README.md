@@ -15,7 +15,7 @@ A small utility to keep Go module replace directives consistent across the repos
 
 Generated blocks are wrapped with:
 ```
-text BEGIN GENERATED REPLACES - DO NOT EDIT ...  END GENERATED REPLACES
+BEGIN GENERATED REPLACES - DO NOT EDIT ...  END GENERATED REPLACES
 ```
 
 **Do not edit anything between these markers**, manually—update `dependency-replacements.yaml` instead. Anything 
